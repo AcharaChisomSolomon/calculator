@@ -32,6 +32,8 @@ body {
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
     color: black;
     user-select: none;
+    width: 100%;
+    max-width: 400px;
 }
 
 .button-row {
